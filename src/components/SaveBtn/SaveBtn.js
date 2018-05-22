@@ -1,9 +1,9 @@
 import React from "react";
 
-const SaveButton = props => (
+const SaveBtn = props => (
 	<button className="btn btn-primary" {...props}>
 		Save
 	</button>
 );
 
-export default SaveButton;
+export default SaveBtn;
